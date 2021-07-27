@@ -20,7 +20,7 @@ En esta sesión se realizó la instalacion de Docker y Docker Compose:
 ---
 >6. Vamos al mobaxterm y ponemos nuestra ip con el siguiente comando:
 
-> > > **ssh 192.168.1.104 -l "usuario"**
+> > > **ssh 192.168.0.19 -l "usuario"**
 ---
 >7. Cuando ya se conecte con la terminar de nuestro sistema Linux ya procedemos con los pasos del link [instalacion de docker](https://docs.docker.com/engine/install/ubuntu/)
 ---
